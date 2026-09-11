@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MobileShop\\backend\\InventoryApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|e:\\mobileshop\\backend\\inventoryapplication\\inventoryapplication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|solutionrelative:inventoryapplication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|e:\\mobileshop\\backend\\inventoryapplication\\inventoryapplication\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|solutionrelative:inventoryapplication\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|e:\\mobileshop\\backend\\inventoryapplication\\inventoryapplication\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|solutionrelative:inventoryapplication\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|e:\\mobileshop\\backend\\inventoryapplication\\inventoryapplication\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|solutionrelative:inventoryapplication\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|e:\\mobileshop\\backend\\inventoryapplication\\inventoryapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|solutionrelative:inventoryapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|e:\\mobileshop\\backend\\inventoryapplication\\inventoryapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|solutionrelative:inventoryapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|e:\\mobileshop\\backend\\inventoryapplication\\inventoryapplication\\inventoryapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|solutionrelative:inventoryapplication\\inventoryapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|e:\\mobileshop\\backend\\inventoryapplication\\inventoryapplication\\models\\usertbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|solutionrelative:inventoryapplication\\models\\usertbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|e:\\mobileshop\\backend\\inventoryapplication\\inventoryapplication\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|solutionrelative:inventoryapplication\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|e:\\mobileshop\\backend\\inventoryapplication\\inventoryapplication\\models\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|solutionrelative:inventoryapplication\\models\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|e:\\mobileshop\\backend\\inventoryapplication\\inventoryapplication\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|solutionrelative:inventoryapplication\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|e:\\mobileshop\\backend\\inventoryapplication\\inventoryapplication\\models\\customertbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|solutionrelative:inventoryapplication\\models\\customertbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|e:\\mobileshop\\backend\\inventoryapplication\\inventoryapplication\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|solutionrelative:inventoryapplication\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|e:\\mobileshop\\backend\\inventoryapplication\\inventoryapplication\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|solutionrelative:inventoryapplication\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|e:\\mobileshop\\backend\\inventoryapplication\\inventoryapplication\\models\\billtbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|solutionrelative:inventoryapplication\\models\\billtbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|e:\\mobileshop\\backend\\inventoryapplication\\inventoryapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|solutionrelative:inventoryapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|e:\\mobileshop\\backend\\inventoryapplication\\inventoryapplication\\inventoryapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{90775B8F-D608-DE6C-2A5A-4F98B7CB6ACE}|InventoryApplication\\InventoryApplication.csproj|solutionrelative:inventoryapplication\\inventoryapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogInDto.cs",
+              "DocumentMoniker": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\DTO\\LogInDto.cs",
+              "RelativeDocumentMoniker": "InventoryApplication\\DTO\\LogInDto.cs",
+              "ToolTip": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\DTO\\LogInDto.cs",
+              "RelativeToolTip": "InventoryApplication\\DTO\\LogInDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T05:53:20.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "InventoryApplication\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "InventoryApplication\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T06:08:20.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerTbl.cs",
+              "DocumentMoniker": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Models\\CustomerTbl.cs",
+              "RelativeDocumentMoniker": "InventoryApplication\\Models\\CustomerTbl.cs",
+              "ToolTip": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Models\\CustomerTbl.cs",
+              "RelativeToolTip": "InventoryApplication\\Models\\CustomerTbl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T07:11:11.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\DTO\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "InventoryApplication\\DTO\\RegisterDto.cs",
+              "ToolTip": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\DTO\\RegisterDto.cs",
+              "RelativeToolTip": "InventoryApplication\\DTO\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T05:53:50.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryApplication\\Program.cs",
+              "ToolTip": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Program.cs",
+              "RelativeToolTip": "InventoryApplication\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T06:02:46.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "InventoryApplication\\appsettings.json",
+              "ToolTip": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\appsettings.json",
+              "RelativeToolTip": "InventoryApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T05:59:49.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "InventoryApplication\\Controllers\\InventoryController.cs",
+              "ToolTip": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "InventoryApplication\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T05:10:32.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryApplication.csproj",
+              "DocumentMoniker": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\InventoryApplication.csproj",
+              "RelativeDocumentMoniker": "InventoryApplication\\InventoryApplication.csproj",
+              "ToolTip": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\InventoryApplication.csproj",
+              "RelativeToolTip": "InventoryApplication\\InventoryApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-03T05:51:20.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserTbl.cs",
+              "DocumentMoniker": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Models\\UserTbl.cs",
+              "RelativeDocumentMoniker": "InventoryApplication\\Models\\UserTbl.cs",
+              "ToolTip": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Models\\UserTbl.cs",
+              "RelativeToolTip": "InventoryApplication\\Models\\UserTbl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T05:58:15.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Models\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "InventoryApplication\\Models\\UserDbContext.cs",
+              "ToolTip": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Models\\UserDbContext.cs",
+              "RelativeToolTip": "InventoryApplication\\Models\\UserDbContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T05:43:02.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InventoryDbContext.cs",
+              "DocumentMoniker": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Models\\InventoryDbContext.cs",
+              "RelativeDocumentMoniker": "InventoryApplication\\Models\\InventoryDbContext.cs",
+              "ToolTip": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Models\\InventoryDbContext.cs",
+              "RelativeToolTip": "InventoryApplication\\Models\\InventoryDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T05:57:18.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "InventoryApplication\\Models\\Inventory.cs",
+              "ToolTip": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Models\\Inventory.cs",
+              "RelativeToolTip": "InventoryApplication\\Models\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T05:57:36.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "InventoryApplication\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "InventoryApplication\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T07:01:20.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BillController.cs",
+              "DocumentMoniker": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Controllers\\BillController.cs",
+              "RelativeDocumentMoniker": "InventoryApplication\\Controllers\\BillController.cs",
+              "ToolTip": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Controllers\\BillController.cs",
+              "RelativeToolTip": "InventoryApplication\\Controllers\\BillController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswGQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T07:07:25.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "InventoryApplication\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "InventoryApplication\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T07:01:26.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BillTbl.cs",
+              "DocumentMoniker": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Models\\BillTbl.cs",
+              "RelativeDocumentMoniker": "InventoryApplication\\Models\\BillTbl.cs",
+              "ToolTip": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\Models\\BillTbl.cs",
+              "RelativeToolTip": "InventoryApplication\\Models\\BillTbl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T06:26:42.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InventoryApplication.http",
+              "DocumentMoniker": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\InventoryApplication.http",
+              "RelativeDocumentMoniker": "InventoryApplication\\InventoryApplication.http",
+              "ToolTip": "E:\\MobileShop\\backend\\InventoryApplication\\InventoryApplication\\InventoryApplication.http",
+              "RelativeToolTip": "InventoryApplication\\InventoryApplication.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-08-12T06:02:43.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
